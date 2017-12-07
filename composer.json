@@ -1,5 +1,5 @@
 {
-    "name": "your-name-here/TimezoneAware",
+    "name": "birdy247/cakephp-timezone",
     "description": "TimezoneAware plugin for CakePHP",
     "type": "cakephp-plugin",
     "license": "MIT",
